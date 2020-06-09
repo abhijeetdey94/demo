@@ -1,2 +1,2 @@
-# repl
-algo practice on repl
+# Demo
+Demo repository
